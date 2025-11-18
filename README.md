@@ -18,18 +18,11 @@ Project Structure
 .
 ├── run.ipynb                  # Core runnable pipeline (works with or without API)
 
-
-
-├── docs/
-│   
 ├── Reimagined_Story.md    # Full written output (story + mapping + analysis)
 
-│   
+
 └── System_Design.pdf      # Architecture & engineering documentation
 
-├── examples/
-│   
-└── sample_output.md        # Example final assembled output
 
 └── README.md
 
