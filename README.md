@@ -16,7 +16,7 @@ Secure + modular code design
 
 Project Structure
 .
-├── run.ipynb                  # Core runnable pipeline (works with or without API)
+├── Task.ipynb                 # Core runnable pipeline (works with or without API)
 
 ├── Reimagined_Story.md    # Full written output (story + mapping + analysis)
 
